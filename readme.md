@@ -11,7 +11,8 @@ It has various useful methods to make your life easier:
   * Index-based insertion and deletion operations.
   * Concatenation of lists - At the end or the begining - Option for movements
 
-Autor: Christian González 
+Autor: Christian González
+
 My YouTube channel (in spanish): CPlayMasH
 
 Hope you the best!
