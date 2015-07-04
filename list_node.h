@@ -1,5 +1,5 @@
-/**
-    Graph library
+/*
+    Double-Linked list library
 		Copyright (C) 2014  González León Christian
 
 	  This program is free software: you can redistribute it and/or modify
